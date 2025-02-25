@@ -1,0 +1,9 @@
+Arduino Nano
+
+L239D Driver 	-- Y-Axis Motor (6,5,4)
+TB6600       	-- X-Axis Stepper Motor (D9,D10)
+3 Inputs 	-- from Color Tester (OUT1(A),OUT2(B),IR STatus(C))
+3 Outputs	-- set/rst , check color (A0,A1)
+5V Servo	-- D3
+6 Inputs 	-- Limits (x-axis,y-axis) , Start Button --> D,E,F,G,H
+ES BUTTON 	-- D7

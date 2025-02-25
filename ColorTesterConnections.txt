@@ -1,0 +1,12 @@
+Arduino Nano
+
+IR sensor 		--> D2
+Color Sensor 		--> (S0,S1,S2,S3,OUT) - (3,4,5,6,7)
+2 24V NPN Inputs 	--> (OPTO 2ND)F , (OPTO 3RD)E (SET/RST , CHECK COLOR)
+3 24V NPN Outputs 	--> A0(OUT1) , A1(OUT2) , A2(IR STATUS)
+Teach Button  		--> G (74165)
+Test Button   		--> H (74165)
+LED Indicator 		--> A5
+H-Bridge Relay 		--> A3,A4
+LIMITS 			--> A,B (74165)
+74165			--> SCK-13,PL-11,SERIAL_OUT-D12
